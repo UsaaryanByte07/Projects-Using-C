@@ -8,6 +8,19 @@ This repository is designed to help learners and enthusiasts sharpen their C pro
 ## 📂 Repository Structure
 
 <!-- START_STRUCTURE -->
+```
+Projects-Using-C
+├── .gitignore
+├── Project1(File_Encryption_And_Decryption)
+│   ├── Decrypted_Secret1.txt
+│   ├── Encrypted_Secret1.txt
+│   ├── README.md
+│   ├── Secret2.txt
+│   └── encryption_decryption.c
+├── README.md
+├── generate_structure.py
+└── update_readme.py
+```
 <!-- END_STRUCTURE -->
 
 ---
